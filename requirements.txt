@@ -1,0 +1,10 @@
+python==3.9.15
+'ray[air]==2.4.0'
+'transformers[torch]==4.30.2'
+datasets==2.0.0
+numpy==1.24.2
+accelerate==0.19.0
+xgboost-ray==0.1.16
+urllib3<1.27
+protobuf<=3.20
+matplotlib==3.7.1
