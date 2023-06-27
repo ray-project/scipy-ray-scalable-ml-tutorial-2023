@@ -8,3 +8,5 @@ xgboost-ray==0.1.16
 urllib3<1.27
 protobuf<=3.20
 matplotlib==3.7.1
+jupyterlab==3.6.1
+ipywidgets==8.0.6
