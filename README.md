@@ -10,11 +10,6 @@
 
 Machine learning (ML) pipelines involve a variety of computationally intensive stages. As state-of-the-art models and systems demand more compute, there is an urgent need for adaptable tools to scale ML workloads. This idea drove the creation of Ray—an open source, distributed ML compute framework that not only powers systems like ChatGPT but also pushes theoretical computing benchmarks. Ray AIR is especially useful for parallelizing ML workloads such as pre-processing images, model training and finetuning, and batch inference. In this tutorial, participants will learn about AIR’s composable APIs through hands-on coding exercises.
 
-## Resources
-
--   GitHub repository with relevant resources including notebooks, setup instructions, reference implementations to coding exercises, and a README for an overview.
--   Participants will be able to use a pre-configured compute cluster for the duration of the tutorial.
-
 ## Audience
 
 -   Intermediate-level Python and ML researchers and developers.
