@@ -22,7 +22,7 @@ cd scipy-ray-scalable-ml-tutorial-2023
 
 You should install dependencies in a new virtual environment. If you are not familiar with virtualenv, consult their [documentation](https://docs.python.org/3/library/venv.html) before you move forward.
 
-Make sure that you have virtual env with `python==3.10.10`.
+Make sure that you have virtual env with `python==3.9.15`.
 
 Once in the virtualenv, run in your terminal:
 
